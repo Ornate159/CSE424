@@ -11,7 +11,7 @@ Link to the paper:
 https://ieeexplore.ieee.org/document/990517
 
 Group Number:
-N/A
+19
 
 Individual Submitter:
 23141041 Reeyad Ahmed Ornate
