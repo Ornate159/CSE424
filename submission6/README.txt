@@ -7,6 +7,9 @@ https://easy....
 Paper title:
 Analyzing the relationship between musical features and the popularity of a song using Machine Learning models.
 
+Unlisted YouTube video:
+https://youtu.be/NWhzKdiLexM
+
 Paper presentation (anyone can view without login):
 https://docs.google.com/presentation/d/1b4oz-iFJuCBtnvIeLFZ7t98Q-aQi9Ltp-8L4mpydfsY/edit?usp=sharing
 
