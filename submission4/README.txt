@@ -2,7 +2,7 @@ Overleaf link with edit access to course instructor gmail and then email "anybod
 https://www.overleaf.com/6791534589yjdfcmhkpfms#ce1fe9
 
 Unlisted YouTube video:
-https://youtu.be/REkpT4F1Av4
+https://youtu.be/hq2jVfYVzms
 
 Paper title:
 Analyzing the relationship between musical features and the popularity of a song, as measured by the number of Spotify streams or YouTube views using Machine Learning models.
